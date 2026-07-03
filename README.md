@@ -33,11 +33,13 @@ The objective of this project is to demonstrate how data visualization can suppo
 
 ## Dashboard Preview
 
-**
+![HR Analytics Dashboard](HR_Analytics_Dashboard_Preview_Image.png)
 
 ---
 
 ## Tableau Public
+## Interactive Dashboard
 
-*Tableau Public link will be added here.*
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HRAnalyticsDashboard_17829972577970/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
