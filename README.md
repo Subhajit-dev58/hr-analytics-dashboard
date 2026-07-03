@@ -1,4 +1,4 @@
-# Employee Attrition & HR Analytics Dashboard
+# HR Analytics Dashboard
 
 ## Overview
 
@@ -33,7 +33,7 @@ The objective of this project is to demonstrate how data visualization can suppo
 
 ## Dashboard Preview
 
-*A dashboard preview image will be added here.*
+**
 
 ---
 
